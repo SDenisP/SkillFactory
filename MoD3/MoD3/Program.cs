@@ -4,13 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Как тебя зовут? \n ");
+        Console.Write("Как тебя зовут? \n");
         Console.WriteLine();
         string MyName = Console.ReadLine();
         Console.WriteLine();
-        Console.WriteLine("\t Приятно познакомиться " + MyName + ", меня зовут Денис");
+        Console.WriteLine("\tПриятно познакомиться " + MyName + ", меня зовут Денис");
         Console.WriteLine();
-        Console.Write("Сколько тебе лет? \n ");
+        Console.Write("Сколько тебе лет? \n");
         Console.WriteLine();
         int year = Convert.ToInt32(Console.ReadLine());
 
@@ -25,7 +25,7 @@ class Program
             Console.WriteLine();
         }
 
-        Console.Write("У тебя есть домашний питомец? \n ");
+        Console.Write("У тебя есть домашний питомец? \n");
         Console.WriteLine();
         string pet = Console.ReadLine();
         Console.WriteLine();
@@ -33,23 +33,23 @@ class Program
         switch (pet)
         {
             case ("Да"):
-                Console.WriteLine("\t Поздравляю");
+                Console.WriteLine("\tПоздравляю");
                 Console.WriteLine();
                 break;
             case ("Нет"):
-                Console.WriteLine("\t Возможно он у тебя появится");
+                Console.WriteLine("\tВозможно он у тебя появится");
                 Console.WriteLine();
                 break;
             default:
-                Console.WriteLine("\t В следующий раз пиши первую букву БОЛЬШОЙ");
+                Console.WriteLine("\tВ следующий раз пиши первую букву БОЛЬШОЙ");
                 Console.WriteLine();
                 break;
         }
-        Console.WriteLine("Какой у тебя размер ноги? \n ");
+        Console.WriteLine("Какой у тебя размер ноги? \n");
         Console.WriteLine();
         int size = int.Parse(Console.ReadLine());
         Console.WriteLine();
-        Console.WriteLine("\t У тебя {0}, а у меня 45 размер", size);
+        Console.WriteLine("\tУ тебя {0}, а у меня 45 размер", size);
         Console.WriteLine();
         Console.WriteLine("Приятно было провести с тобой время {0}. \nДо встречи!", MyName);
 
