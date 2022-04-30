@@ -1,0 +1,15 @@
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\bin\Debug\net6.0\MoD3.exe
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\bin\Debug\net6.0\MoD3.deps.json
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\bin\Debug\net6.0\MoD3.runtimeconfig.json
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\bin\Debug\net6.0\MoD3.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\bin\Debug\net6.0\MoD3.pdb
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.AssemblyInfoInputs.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.AssemblyInfo.cs
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\refint\MoD3.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.pdb
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\MoD3.genruntimeconfig.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD3\obj\Debug\net6.0\ref\MoD3.dll
