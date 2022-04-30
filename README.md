@@ -1,1 +1,1 @@
-# SkillFactoty
+# SkillFactory
