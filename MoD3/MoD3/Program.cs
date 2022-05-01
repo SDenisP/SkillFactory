@@ -53,6 +53,12 @@ class Program
         Console.WriteLine();
         Console.WriteLine("Приятно было провести с тобой время {0}. \nДо встречи!", MyName);
 
-        Console.ReadLine();
+        Console.ReadLine(); 
+    }
+    enum Semaphore : int
+    {
+        Red = 100,
+        Yellow = 200,
+        Green = 300
     }
 }
