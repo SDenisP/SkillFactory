@@ -4,6 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Введите имя: ");
+        string name = Console.ReadLine();
+        Console.WriteLine("Введите возраст: ");
+        int age = int.Parse(Console.ReadLine());
+        Console.WriteLine("Введите вашаш любимый день недели");
+        DayOfWeek day = (DayOfWeek)int.Parse(Console.ReadLine());
+        Console.WriteLine("Ваш любимый день недели: {0}", day);
+        Console.WriteLine("Твоё имя {0}, а возраст {1}", name, age);
+        // 
+        //
+        //
         Console.Write("Как тебя зовут? \n");
         Console.WriteLine();
         string MyName = Console.ReadLine();
