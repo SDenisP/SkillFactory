@@ -4,71 +4,85 @@ class MainClass
 {
 	public static void Main(string[] args)
 	{
+		(string Name, string Type, double Age, int NameCount) Pet;
 
-		int sum = 0;
-		while (true)
+		Console.Write("Введите имя вашего питомца: ");
+		Pet.Name = Console.ReadLine();
+
+		Console.Write("Что у вас за питомец: ");
+		Pet.Type = Console.ReadLine();
+
+		Console.Write("Возраст вашего питомца: ");
+		Pet.Age = double.Parse(Console.ReadLine());
+
+		Console.WriteLine("Имя питомца по буквам: ");
+		foreach (var NameCount in Pet.Name)
 		{
-			Console.WriteLine("Введите число");
-			int ti = int.Parse(Console.ReadLine());
+			Console.Write(NameCount + " ");
+		}
+		Pet.NameCount = Pet.Name.Length;
+		Console.WriteLine();
+		Console.WriteLine($"Ваше питомца зовут: {Pet.Name}");
+		Console.WriteLine($"Ваш питомец это: {Pet.Type}");
+		Console.WriteLine($"Возраст вашего питомца: {Pet.Age}");
+		Console.WriteLine($"Количество букв в имени: {Pet.NameCount}");
 
-			if (ti < 0)
-			{
-				continue;
-			}
 
-			else if (ti == 0)
-			{
-				break;
-			}
 
-			sum += ti;
-			Console.WriteLine("Итоговая сумма {0}", sum);
+
+
+
+
+
+
+
+
 
 		/*
-			 Console.WriteLine("Напишите свой любимый цвет на английском с маленькой буквы");
+		int[,] arr =
+		{
+			{ -5, 54, 21,-4},
+			{ 23, -32, 12, 34 }
+		};
 
-			var text = Console.ReadLine();
+		int sum = 0;
 
-			if (text == "stop")
+        for (int i = 0; i < arr.GetLength(0); i++)
+        {
+			for (int j = 0; j < arr.GetLength(1); j++)
 			{
-				Console.WriteLine("Цикл остановлен");
-				break;
+				if (arr[i,j] > 0)
+				{
+					sum++;
+				}
 			}
 
-			switch (text)
+        }
+
+		Console.WriteLine("Кол-во положительных чисел: " + sum);
+
+		\\ сумма положительных чисел в массиве
+		foreach (int num in array)
+		{
+			if (num >= 0)
 			{
-				case "red":
-					Console.BackgroundColor = ConsoleColor.Red;
-					Console.ForegroundColor = ConsoleColor.Black;
-					Console.WriteLine("Твой любимый цвет красный!");
-					break;
-
-				case "cyan":
-					Console.BackgroundColor = ConsoleColor.Cyan;
-					Console.ForegroundColor = ConsoleColor.Black;
-					Console.WriteLine("Твой любимый цвет бирюзовый");
-					break;
-
-				case "green":
-					Console.BackgroundColor = ConsoleColor.Green;
-					Console.ForegroundColor = ConsoleColor.Black;
-					Console.WriteLine("Твой любимый цвет зеленый!");
-					break;
-
-				case "gray":
-					Console.BackgroundColor = ConsoleColor.Gray;
-					Console.ForegroundColor = ConsoleColor.DarkGray;
-					Console.WriteLine("Твой любимый цвет серый!");
-					break;
-
-				default:
-					continue;
+				sum += num;
 			}
-
-
-
-			g++;
-		*/
 		}
+		Console.WriteLine(sum);
+
+		\\ Разбор вводимого имени в массиве
+
+		Console.WriteLine("Введите ваше имя: ");
+		var name = Console.ReadLine();
+		Console.WriteLine($"Ваше имя: {name}");
+		for (var i = name.Length -1; i >= 0; i--)
+		{
+			Console.Write(name[i] + " ");
+
+		}
+		Console.WriteLine();
+		Console.WriteLine("Последняя буква вашего имени: {0}", name[name.Length - 1]);
+		*/
 	}
 }
