@@ -1,0 +1,15 @@
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\bin\Debug\net6.0\MoD5.exe
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\bin\Debug\net6.0\MoD5.deps.json
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\bin\Debug\net6.0\MoD5.runtimeconfig.json
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\bin\Debug\net6.0\MoD5.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\bin\Debug\net6.0\MoD5.pdb
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.AssemblyInfoInputs.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.AssemblyInfo.cs
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\refint\MoD5.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.pdb
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\MoD5.genruntimeconfig.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD5\obj\Debug\net6.0\ref\MoD5.dll
