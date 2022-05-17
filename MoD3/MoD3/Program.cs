@@ -24,7 +24,7 @@ class Program
         Console.Write("Сколько тебе лет? \n");
         Console.WriteLine();
         int year = Convert.ToInt32(Console.ReadLine());
-
+        
         if (year >= 18)
         {
             Console.WriteLine("\tДа ты уже взрослый(-ая)");
