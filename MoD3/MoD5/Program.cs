@@ -3,9 +3,9 @@
 class MainClass
 {
     //static string GetDataFromConsole() => Console.ReadLine();
-    static string ShowColor()
+    static string ShowColor(string username, int userage)
     {
-        Console.WriteLine("Напишите свой любимый цвет с маленькой буквы: ");
+        Console.WriteLine($"{username}, {userage} \nНапишите свой любимый цвет с маленькой буквы: ");
         string color = Console.ReadLine();
         switch (color)
         {
@@ -71,13 +71,33 @@ class MainClass
     public static void Main(string[] args)
     {
 
-        GetArrayFromConsole();
+        var (name, age) = ("Евгения", 27);
+        Console.WriteLine("Моё имя {0}", name);
+        Console.WriteLine("Мой возраст {0}", age);
 
+        Console.Write("Введите имя: ");
+        name = Console.ReadLine();
+        Console.WriteLine("Введите возраст цифрами: ");
+        age = int.Parse(Console.ReadLine());
 
+        Console.WriteLine("Ваше имя {0}", name);
+        Console.WriteLine("Ваш возраст {0}", age);
 
+        var favcolors = new string[3];
 
+        for (int i = 0; i < favcolors.Length; i++)
+        {
+            favcolors[i] = ShowColor(name,age);
+        }
 
+        Console.WriteLine("Ваши любимые цвета:");
 
+        foreach(var color in favcolors)
+        {
+            Console.WriteLine(color);
+        }
+
+        Console.WriteLine();
 
 
 
@@ -90,7 +110,7 @@ class MainClass
 
 
         /*
-        var favcolors = new string[3];
+        string favcolors = new string[3];
 
         for (int i = 0; i < favcolors.Length; i++)
         {
