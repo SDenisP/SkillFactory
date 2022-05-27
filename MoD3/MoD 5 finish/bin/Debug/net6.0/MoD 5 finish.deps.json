@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MoD 5 finish/1.0.0": {
+        "runtime": {
+          "MoD 5 finish.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoD 5 finish/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

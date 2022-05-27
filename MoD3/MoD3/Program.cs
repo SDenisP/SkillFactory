@@ -4,6 +4,20 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Введите возраст:");
+        bool result = byte.TryParse(Console.ReadLine(), out byte ex);
+        
+            if (result)
+            {
+                Console.WriteLine("успешно " + ex);
+            }
+            else
+            {
+                Console.WriteLine("Неудача");
+                return;
+            }
+        
+
         Console.WriteLine("Введите имя: ");
         string name = Console.ReadLine();
         Console.WriteLine("Введите возраст: ");

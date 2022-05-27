@@ -1,0 +1,15 @@
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\bin\Debug\net6.0\MoD 5 finish.exe
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\bin\Debug\net6.0\MoD 5 finish.deps.json
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\bin\Debug\net6.0\MoD 5 finish.runtimeconfig.json
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\bin\Debug\net6.0\MoD 5 finish.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\bin\Debug\net6.0\MoD 5 finish.pdb
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.AssemblyInfoInputs.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.AssemblyInfo.cs
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\refint\MoD 5 finish.dll
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.pdb
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\MoD 5 finish.genruntimeconfig.cache
+C:\Users\Ирина\source\repos\SkillFactoty\MoD3\MoD 5 finish\obj\Debug\net6.0\ref\MoD 5 finish.dll
